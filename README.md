@@ -1,21 +1,23 @@
-T3v3 - Joomla Responsive Template Framework, built with Bootstrap & LESS
+T3v3 - 使用 Bootstrap 和 LESS 创建的 Joomla 响应式模板框架
 ==============
 
-The 3rd generation of T3 Framework - re-written from the scratch to support Bootstrap & LESS.  
-- Visit the Google Group for lastest update: 
+T3 框架的第三代-重构全部代码 支持Bootstrap＆LESS。
+-访问 Google 网上论坛以获取最新信息：
 https://groups.google.com/forum/#!forum/t3fw
-- Visit our Discussion Chanel: http://t3-framework.org/discussions.html
+- 访问我们的论坛: http://t3-framework.org/discussions.html
 
-Why?
-- No longer the Mobile layout/view but the rise of Responsive Design
-- Bootstrap integration into Joomla 3.x 
-- LESS development 
-- Support Megamenu, Offcanvas, and Sticky menu
-- ThemeMagic ( lets you customize themes without having to search for the right file or without diving into the code )
+为什么？
 
-These things have opened a whole new way of how a Joomla template should be developed. 
+-不再是移动布局/视图，而使用流星的响应式设计
+-将 Bootstrap 集成到 Joomla 3.x 中
+-使用 LESS 开发
+-支持 Megamenu，Offcanvas 和 Sticky 菜单
+-ThemeMagic（可让您自定义主题，而无需搜索正确的文件或无需深入代码）
 
-Download 
+这些事情为Joomla模板的开发开辟了一种全新的方式。
+
+下载
+
 --------
 - All packages: http://t3-framework.org/downloads.html
 - Lastest Builds: https://github.com/t3framework/t3/tags 
